@@ -9,3 +9,4 @@ Chapter4_Thread_Handler_Socket_Volley<br/>
 Chapter5_PHP_Database_SQL<br/> 
 [과제]_앱만들기2_웹크롤링_공적마스크앱만들기_회원관리<br/> 
 Chapter6_Sensor<br/> 
+주교재 : Do it 안드로이드 앱 프로그래밍, 정재곤, 이지스퍼블리싱, 8판 
